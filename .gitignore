@@ -1,0 +1,18 @@
+*.dll
+[Dd]ebug/
+[Rr]elease/
+[Bb]in
+[Oo]bj
+*.Cache
+Thumbs.db
+*.obj
+*.pdb
+
+# KDiff3
+*.orig
+
+# Windows Azure Build Output
+csx
+*.build.csdef
+
+.vs/

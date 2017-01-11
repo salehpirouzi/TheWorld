@@ -18,6 +18,8 @@ csx
 #Visual studio
 .vs/
 
+#Geeks
+GCopLog.txt
 
 #Bower
 lib/

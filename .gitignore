@@ -15,4 +15,12 @@ Thumbs.db
 csx
 *.build.csdef
 
+#Visual studio
 .vs/
+
+
+#Bower
+lib/
+
+# GCop
+GCop.json

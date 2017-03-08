@@ -6,6 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8EF91CC1-F8E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A342FA47-5CA5-4C99-B4A9-CA3C05C32A4A}"
 	ProjectSection(SolutionItems) = preProject
+GCop.json = GCop.json
 		global.json = global.json
 	EndProjectSection
 EndProject
